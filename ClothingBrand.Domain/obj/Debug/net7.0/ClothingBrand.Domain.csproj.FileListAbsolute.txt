@@ -1,0 +1,15 @@
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\bin\Debug\net7.0\ClothingBrand.Domain.deps.json
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\bin\Debug\net7.0\ClothingBrand.Domain.runtimeconfig.json
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\bin\Debug\net7.0\ClothingBrand.Domain.dll
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\bin\Debug\net7.0\ClothingBrand.Domain.pdb
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.csproj.AssemblyReference.cache
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.AssemblyInfoInputs.cache
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.AssemblyInfo.cs
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.csproj.CoreCompileInputs.cache
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.sourcelink.json
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.dll
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\refint\ClothingBrand.Domain.dll
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.pdb
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ClothingBrand.Domain.genruntimeconfig.cache
+D:\web .net\days\GraduationProject\New folder\ClothingBrand\ClothingBrand.Domain\obj\Debug\net7.0\ref\ClothingBrand.Domain.dll
